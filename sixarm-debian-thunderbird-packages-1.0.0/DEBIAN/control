@@ -1,0 +1,9 @@
+Package: sixarm-debian-thunderbird-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: thunderbird, thunderbird-calendar-timezones, thunderbird-couchdb, thunderbird-enigmail, thunderbird-gdata-provider, thunderbird-globalmenu, thunderbird-lightning
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Thunderbird email client packages we like to use
+ Thunderbird email client packages we like to use together.
