@@ -1,0 +1,7 @@
+thunderbird
+thunderbird-calendar-timezones
+thunderbird-couchdb
+thunderbird-enigmail
+thunderbird-gdata-provider
+thunderbird-globalmenu
+thunderbird-lightning
